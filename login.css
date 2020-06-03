@@ -1,0 +1,27 @@
+/* CSS Document */
+   .fbheader {
+            height: 84px;
+            background-color:#66CC66;
+            color: white;
+            min-width: 980px;
+        }
+        
+        .form-controlsetting {
+            height: 25px!important;
+        }
+        
+        .fblang {
+            font-family: "Helvetica", "Arial", sans-serif;
+        }
+        
+        select {
+            width: 65px!important;
+            height: 30px!important;
+            text-align: center;
+        }
+        
+        .datafb {
+            color: #777;
+            font-size: 11px;
+            width: 316px;
+        }
